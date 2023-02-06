@@ -1,0 +1,30 @@
+body{
+	background: #C9C3C2 ;
+}
+#in_maincont{
+	background: white;
+	height: 100%;
+}
+.hline{
+	height: 30px;
+	width: 100%;
+	background: #0984e3;
+}
+#in-add h4{
+		margin-top: 10px;
+		margin-bottom: 0px;	
+		font-weight: bold;
+}
+#pri_btn{
+	display: block;
+	margin: auto;
+	
+}
+#in-tot{
+	border: 3px solid black;
+}
+#in-add img{
+	width: 70px;
+	height: 100px;
+	margin: 10px 0;
+}
